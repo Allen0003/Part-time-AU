@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<qdbapi>
+	<action>API_DeleteRecord</action>
+	<errcode>3</errcode>
+	<errtext>Insufficient permissions</errtext>
+	<errdetail>Oops. You don&#039;t have permission to access that page</errdetail>
+	<udata>qdbapi</udata>
+	<username>apss1943@gmail.com</username>
+</qdbapi>
